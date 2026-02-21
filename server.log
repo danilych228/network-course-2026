@@ -1,0 +1,15 @@
+[*] Server started
+[+] New thread started for ('127.0.0.1', 44266)
+[('127.0.0.1', 44266)] Echo: Hello From First Client
+
+[+] New thread started for ('127.0.0.1', 52290)
+[('127.0.0.1', 52290)] Echo: Hello From Second Client
+
+[+] New thread started for ('127.0.0.1', 48032)
+[('127.0.0.1', 48032)] Echo: Hello From Third Client
+
+[-] ('127.0.0.1', 44266) is disconnected
+[-] ('127.0.0.1', 52290) is disconnected
+[-] ('127.0.0.1', 48032) is disconnected
+^C
+[*] Server closed
